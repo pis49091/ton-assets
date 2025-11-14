@@ -349,6 +349,9 @@
 - address: 0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0
   name: DRAGONZ LAND
   symbol: DRAGONZ
+- address: 0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6
+  name: DRFT Coin
+  symbol: DRFT
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
@@ -385,6 +388,9 @@
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
+- address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
+  name: Exit
+  symbol: Exit
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
@@ -778,6 +784,9 @@
 - address: 0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6
   name: NikolAI
   symbol: NIKO
+- address: 0:306f7bca7d878d706df38ce3a01e98a14bdb1b451d4aaf3d037ed943a5137488
+  name: Nepal Monarchy GOLD
+  symbol: NMGOLD
 - address: 0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684
   name: NO Rocket
   symbol: 'NO'
@@ -1247,6 +1256,9 @@
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
+- address: 0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286
+  name: TonMemeRepublic
+  symbol: TMR
 - address: 0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956
   name: TON FORD
   symbol: TNFRD
